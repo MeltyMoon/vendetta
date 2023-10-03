@@ -74,6 +74,12 @@
       "CHAT_BACKGROUND": [
       "#1e1e2e"
       ],
+      "ICON_PRIMARY": [
+      "#cdd6f4"
+      ],
+      "ICON_SECONDARY": [
+      "#bac2de"
+      ],
       "HEADER_PRIMARY": [
       "#cdd6f4"
       ],
