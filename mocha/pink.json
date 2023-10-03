@@ -5,6 +5,10 @@
       {
         "name": "riichi",
         "id": "920329543187832912"
+      },
+      {
+        "name": "MeltyMooncakes",
+        *-"id": "290610400763052035"
       }
     ],
     "semanticColors": {
@@ -93,7 +97,7 @@
       "#5b6078"
       ],
       "INTERACTIVE_NORMAL": [
-      "#9399b2"
+      "#cdd6f4"
       ],
       "MENTION_BACKGROUND": [
       "#f258584d"
